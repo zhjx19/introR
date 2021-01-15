@@ -4,5 +4,5 @@
 
 欢迎加入本书的读者交流、答疑QQ群：
 
-![R-tidy QQ群](images/tidy-R-QQ.jpg)
+![R-tidy QQ群：875664831](images/tidy-R-QQ.jpg)
 
