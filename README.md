@@ -4,5 +4,6 @@
 
 欢迎加入本书的 [知乎交流平台](https://zhuanlan.zhihu.com/p/198185888)，读者交流、答疑 QQ 群 (875664831)：
 
-![R-tidy QQ群](images/tidy-R-QQ.jpg)
+![R-tidy QQ群](images/tidy-R-QQ.png)
 
+![R语言与数学建模-公众号](\images\R语言与数学建模-公众号.jpg)
