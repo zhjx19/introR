@@ -8,4 +8,4 @@
 
 ![R-tidy QQ群](images/tidy-R-QQ.png)
 
-![R语言与数学建模-公众号](\images\tidy-R-wechat.jpg)
+![R语言与数学建模-公众号](\images\tidy-R-wechat.png)
