@@ -1,12 +1,8 @@
 # introR
 
-《R语言编程：基于tidyverse》电子抢读版已上线（人邮）异步社区！
+《R语言编程：基于tidyverse》已正式上线！可到京东、天猫、当当等平台搜索【R语言编程】购买！
 
-[购买链接](https://www.epubit.com/bookDetails?id=UB7db2c0db9f537&tabName=%E6%8A%A2%E8%AF%BB%E7%89%88&floorName=%E7%B2%BE%E9%80%89%E7%BA%B8%E4%B9%A6)
-
-电子抢读版相当于是纸质书的预售，赠送网页版电子书，可以在手机【异步社区】公众号或电脑异步社区官网阅读。纸质书受北京疫情影响，预计12月底上市！
-
-《R语言编程：基于tidyverse》是一本中文 R 语言编程入门书，基于最新 tidyverse 包，讲解真正的编程思维和数据思维：
+《R语言编程：基于tidyverse》是一本中文 R 语言编程入门书，也是为 R 语言正名之书，基于最新 tidyverse 包，讲解真正的编程思维和数据思维：
 
 ![tidy-数据思维](images\tidy-R-data-thinking.png)
 
